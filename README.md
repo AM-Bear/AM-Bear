@@ -19,8 +19,6 @@ I pitched an AI build team to St. John's Entrepreneurship program. The first ask
 ### Entrepreneurship
 
 - Lead the AI build team inside St. John's Entrepreneurship program
-- Own the DECA School-Based Enterprise certification for the program's student-run vending business
-- Founded a nonprofit that delivers durable medical equipment to seniors and others who need it
 - Interned on the business development team at CFO ReStart, an accounting firm, bringing AI agents into accounting workflows
 - NSLC Business & Entrepreneurship at Columbia, 2026: my team's proposal won the mock M&A board
 
