@@ -29,6 +29,6 @@ I pitched an AI build team to St. John's Entrepreneurship program. The first ask
 
 ### How I work
 
-I write the specs and AI coding agents do most of the typing. Every change goes through a pull request, a review and CI before it merges. I'm learning the fundamentals underneath as I go, including Foundations of Quantum Computing with The Coding School this fall.
+I write the specs and AI coding agents do most of the typing. Every change goes through a pull request, a review and CI before it merges. I'm learning the fundamentals underneath as I continue to build.
 
 [thirdlineai.com](https://thirdlineai.com) · ashercmills@icloud.com
