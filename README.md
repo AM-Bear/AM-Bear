@@ -1,4 +1,4 @@
-I'm Asher Mills, a junior at St. John's College High School in Washington, DC, and the founder of [Thirdline](https://github.com/Thirdline-LLC).
+I'm Asher Mills, a Senior at St. John's College High School in Washington, DC, and the founder of [Thirdline](https://github.com/Thirdline-LLC).
 
 I look for problems that AI-driven software can solve, whether they're at school, in a business, or anywhere else. I figure out who actually feels the problem, break it into pieces small enough to test, and ship the smallest thing that fixes the first piece. A lot of my first problems came from school, because that's where I spend my days.
 
